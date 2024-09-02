@@ -8,3 +8,7 @@
 [submodule "GeoThinneR"]
 	path = GeoThinneR
 	url = https://github.com/jmestret/geothinner
+[submodule "rtree"]
+	path = rtree
+	url = https://github.com/jmestret/rtree
+	registered = false

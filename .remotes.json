@@ -1,0 +1,8 @@
+[
+  {
+    "package": "rtree",
+    "url": "https://github.com/jmestret/rtree",
+    "via": ["GeoThinneR"],
+    "from": "GeoThinneR"
+  }
+]
