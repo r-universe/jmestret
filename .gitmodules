@@ -5,3 +5,6 @@
 [submodule "DOYPAColors"]
 	path = DOYPAColors
 	url = https://github.com/jmestret/doypacolors
+[submodule "GeoThinneR"]
+	path = GeoThinneR
+	url = https://github.com/jmestret/geothinner
